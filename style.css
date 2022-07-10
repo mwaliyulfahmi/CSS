@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: navy;
+    margin-left: 20px;
+}
+p{
+    color: rgb(255, 72, 0);
+    text-align: center;
+    font-size: 25px;
+}

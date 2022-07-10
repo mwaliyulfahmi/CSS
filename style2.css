@@ -1,0 +1,47 @@
+#tomato,#orange,#db,#msg,#sb,#sb2,#violet,#pink,#pink2{
+    text-align: center;
+    color: white;
+}
+
+
+#tomato{
+    background-color: tomato;
+}
+#orange{
+    background-color: orange;
+}
+#db{
+    background-color: dodgerblue;
+}
+#msg{
+    background-color: mediumseagreen;
+}
+#gray{
+    background-color: gray;
+}
+#sb{
+    background-color: slateblue;
+}
+#sb2{
+    background-color: rgba(106, 90, 205,0.5);
+}
+#violet{
+    background-color: violet;
+}
+#pink{
+    background-color: #ff0095;
+}
+#pink2{
+    background-color: rgba(255, 0, 149,0.5);
+}
+
+h1.tomato{
+    border: 2px solid Tomato;
+}
+h1.dodgerblue{
+    border:2px solid dodgerblue;
+}
+h1.violet{
+    border: 2px solid violet;
+}
+

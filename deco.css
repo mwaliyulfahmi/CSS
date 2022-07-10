@@ -1,0 +1,58 @@
+ul.a{
+    list-style-type: circle;
+}
+ul.b{
+    list-style-type: square;
+}
+ol.c{
+    list-style-type: upper-roman;
+}
+ol.d{
+    list-style-type: lower-alpha;
+}
+ul.e{
+    list-style-image: url('owl2.png');
+}
+ul.f{
+    list-style-position: inside;
+}
+ul.g{
+    list-style-position: outside;
+}
+ul.demo{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.demo2{
+    list-style: square inside url("pig2.gif");
+}
+ul.pino{
+    list-style: square inside url("pino2.gif");
+}
+ol.am{
+    background: yellow;
+    
+}
+ol.ju{
+    background: plum;
+    padding: 15px;
+}
+ul.jo{
+    background: greenyellow;
+    padding: 25px;
+}
+ol.ju li{
+    background: cornflowerblue;
+    color: blueviolet;
+    padding: 5px;
+    margin-left: 35px;
+}
+ul.jo li{
+    background: cornsilk;
+    color: blueviolet;
+    margin: 5px;
+}
+table,th , td{
+    border:1px solid;
+}
