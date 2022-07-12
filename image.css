@@ -785,9 +785,7 @@ h4.crot{
     background-color: rgb(73, 230, 73);
     color: white;
 }
-#jdh{
-    
-}
-#jdh th, #jdh td{
+
+#table, th, td{
     border: 1px solid;
 }
