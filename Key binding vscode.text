@@ -19,3 +19,7 @@ Move Line Down               Alt + DownArrow
 Move Line Up                 Alt + UpArrow
 Copy Line Down               Crl + Alt + .
 Copy Line Up                 Crl + Alt + /
+Move tab right               Ctrl + PageDown
+Move tab left                Ctrl + PageUp
+scroll to Down               PageDown
+scroll to Up                 PageUp
