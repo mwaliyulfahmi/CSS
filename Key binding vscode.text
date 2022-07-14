@@ -15,3 +15,7 @@ Indet Line / same like tab   Ctrl + ]
 Insert line Above            Ctrl + Shift + Enter
 Insert line Below            Ctrl + Enter
 New Terminal                 Shift + T 
+Move Line Down               Alt + DownArrow
+Move Line Up                 Alt + UpArrow
+Copy Line Down               Crl + Alt + .
+Copy Line Up                 Crl + Alt + /
