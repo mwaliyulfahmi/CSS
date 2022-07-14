@@ -1,0 +1,17 @@
+
+Add cursor above             Ctrl + Shift + UpArrow
+Add cursor below             Ctrl + Shift + DownArrow
+Expand Line Selection        Ctrl + L
+(to block one rows)           
+Delete all left              Shift + A 
+Delete all right             Shift + D
+Delete line                  Shift + W 
+Fold                         Ctrl + Shift + [ 
+                             or 
+                             Ctrl + Shift + ]
+
+Go to line / column          Ctrl + G
+Indet Line / same like tab   Ctrl + ]
+Insert line Above            Ctrl + Shift + Enter
+Insert line Below            Ctrl + Enter
+New Terminal                 Shift + T 
