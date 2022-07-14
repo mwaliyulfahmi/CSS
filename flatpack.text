@@ -1,0 +1,12 @@
+sudo apt install gnome-control-center
+
+sudo dpkg --remove
+sudo dpkg --install [.deb file]
+
+flatpak search gimp
+
+
+flatpak list --app
+flatpak install flathub com.google.Chrome
+flatpak uninstall com.google.Chrome
+
